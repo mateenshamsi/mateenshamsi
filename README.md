@@ -22,4 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateenshamsi&show_icons=true&locale=en" alt="mateenshamsi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateenshamsi&" alt="mateenshamsi" /></p>
-https://holopin.me/mateenshamsi)](https://holopin.io/@mateenshamsi)
+
