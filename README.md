@@ -23,4 +23,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateenshamsi&" alt="mateenshamsi" /></p>
 
-[![An image of @mateenshamsi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mateenshamsi)](https://holopin.io/@mateenshamsi)
